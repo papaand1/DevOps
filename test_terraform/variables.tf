@@ -1,0 +1,2 @@
+variable "keyname" {}
+variable  "keypath" {}
